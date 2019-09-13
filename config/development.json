@@ -1,0 +1,10 @@
+{
+	"db": {
+		"path": ""
+	},
+	"twilio": {
+		"accountSid": "",
+		"authToken": ""
+	},
+	"proxy-url": "http://localhost:3000"
+}

@@ -1,0 +1,10 @@
+{
+	"db": {
+		"path": ""
+	},
+	"twilio": {
+		"accountSid": "",
+		"authToken": ""
+	},
+	"proxy-url": "https://helpr.stevecahn.net"
+}

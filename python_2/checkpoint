@@ -1,0 +1,2 @@
+model_checkpoint_path: "/Users/steve/Desktop/sms_app/backend/model.tflearn"
+all_model_checkpoint_paths: "/Users/steve/Desktop/sms_app/backend/model.tflearn"
